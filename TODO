@@ -1,0 +1,46 @@
+🤖 AMALIY VAZIFA: SHAXSIY AI AGENT QURAMIZ!
+Gemma yordamida terminalda ishlaydigan, kundalik vazifalarni bajara oladigan yordamchi yarating.
+
+🛠 Texnologiyalar: Python + Ollama + gemma4:e2b-it-qat
+
+💻 Muhit: Ubuntu
+Agentingizda quyidagi 6 ta vosita bo‘lsin:
+
+🔎 Fayl qidirish
+Belgilangan papkadan faylni nomi yoki kengaytmasi bo‘yicha topsin.
+
+📖 Matn o‘qish
+.txt va .md fayllarni o‘qib, tushuntirsin yoki qisqartirsin.
+
+📝 Qayd saqlash
+Tasdiqingiz bilan yangi qayd, xulosa yoki reja yozsin.
+
+🧮 Hisoblash
+Arifmetik amallar va foizlarni hisoblasin.
+
+📊 Kompyuter holati
+CPU, RAM va disk holatini ko‘rsatsin.
+
+🌤 Ob-havo
+Ochiq API orqali tanlangan shahar ob-havosini olib bersin.
+
+💬 Agentni shunday sinab ko‘ring:
+“Python haqidagi faylni top, o‘qi va qisqa xulosasini saqla.”
+“250 ming so‘mga 15% chegirma bo‘lsa, qancha to‘layman?”
+“Kompyuterimda qancha bo‘sh RAM va disk joyi bor?”
+“Toshkent ob-havosini tekshir va sayr uchun tavsiya ber.”
+
+⚙️ Ishlash tartibi
+Foydalanuvchi vazifa beradi → Gemma vositani tanlaydi → Python bajaradi → natija Gemma’ga qaytadi → agent javob beradi yoki keyingi amalni tanlaydi.
+
+📌 Asosiy talablar
+• Bajarilgan amallar terminalda ko‘rinsin.
+• Fayl yozishdan oldin tasdiq so‘ralsin.
+• Xatolar tushunarli ko‘rsatilsin.
+• Bir vazifa ko‘pi bilan 8 qadamda bajarilsin.
+• Hisoblashda eval() ishlatilmasin.
+
+📦 Topshirish: agent.py, qisqa README.md va yuqoridagi 4 ta so‘rovning ishlash namoyishi.
+🎯 Maqsad: LLM qanday qaror taklif qilishini va agent bu qarorni real amalga qanday aylantirishini tushunish.
+
+#Python #Gemma #LLM #AIAgent #AmaliyVazifa
